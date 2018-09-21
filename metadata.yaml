@@ -1,0 +1,26 @@
+_repo: Belgiens-Volkscharakter-Belgiens-Kunst_53925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bredt, Ernst Wilhelm
+    alias: Bredt, E. W. (Ernst Wilhelm)
+    birthdate: 1869
+    deathdate: 1938
+    gutenberg_agent_id: '47624'
+    url: http://www.gutenberg.org/2009/agents/47624
+description: ''
+gutenberg_issued: '2017-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53925'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, Belgian'
+- !lcsh 'Art, Belgian'
+- !lcc 'N'
+- GITenberg
+title: Belgiens Volkscharakter, Belgiens Kunst
+url: http://www.gutenberg.org/ebooks/53925
